@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am an experienced Angular developer with a strong understanding of front-end development and the Angular framework. I have been working with Angular for several years, building dynamic, responsive and interactive web applications. My expertise lies in using Angular to build scalable and maintainable single-page applications that provide a seamless user experience.
+I am an experienced FrontEnd developer with a strong understanding of front-end development and the Angular framework. I have been working with Angular for several years, building dynamic, responsive and interactive web applications. My expertise lies in using Angular to build scalable and maintainable single-page applications that provide a seamless user experience.
 
 I have hands-on experience with Angular components, services, directives, pipes, and Angular material. I have also worked with Angular animations and integrating REST APIs to build robust and dynamic web applications.
 
-I am well-versed in developing web applications using Angular, CSS, HTML, and JavaScript. I am comfortable with Angular CLI, Git, and have experience working with Angular Universal for server-side rendering.
-
 My expertise in Angular and front-end development makes me a valuable addition to any team looking to build modern, high-quality web applications. I am a quick learner, a problem solver, and have a passion for writing clean, efficient and well-documented code.
+
+
 🔭 I’m currently working on learning React<br>
 
 
